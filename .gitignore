@@ -3,3 +3,4 @@ toignore.txt
 .env
 *.log
 node_modules/
+test.txt
